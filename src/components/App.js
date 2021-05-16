@@ -96,7 +96,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-        <img src={dbank} className="App-logo" alt="logo" height="32"/>
+        <img src={congruency} className="App-logo" alt="logo" height="32"/>
           <b>Congruency Bank</b>
         </a>
         </nav>
