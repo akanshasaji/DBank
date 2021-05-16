@@ -3,6 +3,7 @@ import dBank from '../abis/dBank.json'
 import React, { Component } from 'react';
 import Token from '../abis/Token.json'
 import dbank from '../dbank.png';
+import congruency from '../congruency.png';
 import Web3 from 'web3';
 import './App.css';
 
