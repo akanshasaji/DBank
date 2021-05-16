@@ -97,12 +97,12 @@ class App extends Component {
             rel="noopener noreferrer"
           >
         <img src={dbank} className="App-logo" alt="logo" height="32"/>
-          <b>dBank</b>
+          <b>Congruency Bank</b>
         </a>
         </nav>
         <div className="container-fluid mt-5 text-center">
         <br></br>
-          <h1>Welcome to DBank</h1>
+          <h1>Welcome to Congruency Bank</h1>
           <h2>{this.state.account}</h2>
           <br></br>
           <div className="row">
